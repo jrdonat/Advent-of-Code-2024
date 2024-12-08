@@ -1,4 +1,4 @@
-INPUT = "Inputs\\Day 4.txt"
+INPUT = "Inputs\\Day 5.txt"
 
 cannot_before = {}
 
